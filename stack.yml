@@ -4,6 +4,6 @@ provider:
   gateway: http://127.0.0.1:8080
 functions:
   demo:
-    lang: python
+    lang: node10-express
     handler: ./demo
     image: demo:latest
