@@ -1,2 +1,2 @@
 def handle(req):
-    print("Hello! You said: " + req)
+    print("Hello people from Quintor! You said: " + req)
